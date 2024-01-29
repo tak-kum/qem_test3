@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
-	<Category en="Sensorless feedback" jp="センサーレスフィードバック" />
+	<Category en="Sensorless feedback" jp="センサレスフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
 	<ZipDownloadUrl>/document/scd/sensorless-vector-control-permanent-magnet-synchronous-motor-mck-rev110/r01an6858xx0110-rx-sensorlessFOC.zip</ZipDownloadUrl>
 	<SampleProject>
@@ -23,7 +23,7 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -2-shunt current detection method&#10;
 &#10;
 [Hardware Setup]&#10;
- -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE30C00000BJ)&#10;
+ -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE70C00000BJ)&#10;
  -Inverter board : MCI-LV-1&#10;
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
@@ -43,7 +43,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM64KBバージョン対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -2シャント抵抗電流検出方式&#10;
 &#10;
@@ -87,7 +87,7 @@ This project supports tuning program generation. &#10;
  -Supports tuning program generation&#10;
 &#10;
 [Hardware Setup]&#10;
- -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE30C00000BJ)&#10;
+ -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE70C00000BJ)&#10;
  -Inverter board : MCI-LV-1&#10;
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
@@ -106,7 +106,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM64KBバージョン対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -2シャント抵抗電流検出方式&#10;
  -チューニングプログラム作成対応&#10;
@@ -146,7 +146,7 @@ This project is the sample program that uses Renesas RX26T microcontroller to dr
  -1-shunt current detection method&#10;
 &#10;
 [Hardware Setup]&#10;
- -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE30C00000BJ)&#10;
+ -CPU board : RX26T RAM64KB version (R5F526TFCDFP) CPU board MCB-RX26T Type A (RTK0EMXE70C00000BJ)&#10;
  -Inverter board : MCI-LV-1&#10;
  -Communication board : MC-COM&#10;
  -Permanent magnet synchronous motor : R42BLD30L3&#10;
@@ -166,7 +166,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM64KBバージョン対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -1シャント抵抗電流検出方式&#10;
 &#10;
@@ -227,7 +227,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM48KBバージョ対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -2シャント抵抗電流検出方式&#10;
 &#10;
@@ -292,7 +292,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM48KBバージョ対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -2シャント抵抗電流検出方式&#10;
  -チューニングプログラム作成対応&#10;
@@ -354,7 +354,7 @@ RX26Tマイクロコントローラを使用し、永久磁石同期モータを
 &#10;
 [機能、対象システム]&#10;
  -RX26T RAM48KBバージョ対応&#10;
- -センサーレスフィードバック&#10;
+ -センサレスフィードバック&#10;
  -ベクトル制御&#10;
  -1シャント抵抗電流検出方式&#10;
 &#10;
